@@ -1,0 +1,10 @@
+201
+POST /api/v1/range HTTP/1.1
+Host: hostname.com
+User-Agent: tank
+Accept: */*
+Content-Type: application/json
+Connection: keep-alive
+Content-Length: 50
+
+{"lt": 59.938480,"lg": 30.312480,"ts": 1652077622}

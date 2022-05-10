@@ -1,0 +1,5 @@
+loadtest/token.txt
+loadtest/logs
+loadtest/*.stpd*
+loadtest/*.log
+loadtest/jobno_file.txt
