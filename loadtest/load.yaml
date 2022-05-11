@@ -7,6 +7,6 @@ phantom:
   ammo_type: phantom
   load_profile:
     load_type: rps
-    schedule: const(1000, 1m)
+    schedule: const(100, 30m)
 telegraf:
   enabled: false
